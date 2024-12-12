@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ismail
 - 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and looking for a job on web development
 - 📫 You can reach me from e-mail --> ismailerdogan2003@gmail.com
 - You can ask me anything.. 
 
